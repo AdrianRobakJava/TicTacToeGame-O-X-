@@ -1,4 +1,4 @@
-package ol.alx.kpij.Kolko;
+
 
 public class Board {
 
