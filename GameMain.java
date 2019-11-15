@@ -1,9 +1,9 @@
 	/*
-	 * Witam delikatnie zmieniłem pierwotną koncepcję tej gry.
+	 *
 	 * GRA KOLKO KRZYZYK
-	 * Znacznikami może być X i O.
-	 * Podanie literki 'c' spowoduje wycofanie ostatniego ruchu.
-	 * Aby sprawdzić czyj jest ruch wpisz 'w'.
+	 * Znacznikami może być X i O. (You can use only X and O.)
+	 * Podanie literki 'c' spowoduje wycofanie ostatniego ruchu. (You can undo your move by entering c.)
+	 * Aby sprawdzić czyj jest ruch wpisz 'w'. (You can check whose movement it is by entering w.)
 	 * 
 	 * numery pól do gry
 	 * 
