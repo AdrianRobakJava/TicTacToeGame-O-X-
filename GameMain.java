@@ -21,7 +21,7 @@
 	 */
 
 
-package ol.alx.kpij.Kolko;
+
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
